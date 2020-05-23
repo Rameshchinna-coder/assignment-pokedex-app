@@ -1,4 +1,5 @@
-"# assignment-pokedex-app" 
-"# assignment-pokedex-app" 
-"# assignment-pokedex-app" 
-"# assignment-pokedex-app" 
+# pokedex
+https://github.com/Rameshchinna-coder/assignment-pokedex-app.git
+cd assignment-pokedex-app
+yarn
+yarn start
